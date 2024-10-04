@@ -23,9 +23,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-<h1 align="center" >
+<p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=HTML5+CSS3+JavaScript+Git" alt="Typing SVG" /></a>
-</h1>
+</p>
 <br>
 
 <!-- Currently Learning-->
@@ -40,6 +40,6 @@
   <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/>
 </p>
 
-<h1 align="center" >
+<p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tailwind+Bootstrap+React" alt="Typing SVG" /></a>
-</h1>
+</p>
