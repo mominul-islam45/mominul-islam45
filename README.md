@@ -6,8 +6,8 @@
 
 <br>
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">,
-#### I'm a passionate Front-End Web Developer 💻, continually improving my skills and learning new technologies 🚀. I love creating dynamic and responsive web applications while focusing on user-centered design and performance 🎨✨.
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">,
+### I'm a passionate Front-End Web Developer 💻, continually improving my skills and learning new technologies 🚀. <br> I love creating dynamic and responsive web applications while focusing on user-centered design and performance 🎨✨.
 <br>
 
 <!-- Technologies I know-->
